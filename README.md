@@ -8,7 +8,7 @@ GitHub Pages host for the **F1 App** web build (PWA).
 
 Formula 1 stats in the browser: standings, race results, season calendar, circuits, predictor, and profile.
 
-Deployed version: **2.1.1** (see [`f1_pet_project/version.json`](f1_pet_project/version.json)).
+Deployed version: **2.1.2** (see [`f1_pet_project/version.json`](f1_pet_project/version.json)).
 
 ## Source project
 
